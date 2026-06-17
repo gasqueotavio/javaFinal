@@ -1,0 +1,11 @@
+============================================
+         CADASTRO DE PESSOAS
+============================================
+1. Incluir Pessoa
+2. Consultar Pessoas
+3. Alterar Pessoa
+4. Excluir Pessoa
+5. Gerenciar Enderecos
+--------------------------------------------
+0. Voltar ao Menu Principal
+============================================

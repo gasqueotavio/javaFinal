@@ -1,0 +1,6 @@
+C001|João Fraga|CLIENTE
+C002|Otávio Gasque|CLIENTE
+C003|Thatiane Ribas|CLIENTE
+F001|Luiz Hota|FORNECEDOR
+F002|Jacsson Santos|FORNECEDOR
+F003|Matheus Siqueira|FORNECEDOR

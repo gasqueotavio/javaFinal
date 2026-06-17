@@ -1,0 +1,11 @@
+[17/06/2026 09:46:55] INCLUSAO   | Pessoa          | Codigo=F001 | Nome=TechPecas Ltda | Tipo=FORNECEDOR
+[17/06/2026 09:46:55] INCLUSAO   | Pessoa          | Codigo=C001 | Nome=Maria Silva | Tipo=CLIENTE
+[17/06/2026 09:46:55] INCLUSAO   | Endereco        | ID=1 | Pessoa=C001 | Av Paulista, 1500
+[17/06/2026 09:46:55] INCLUSAO   | Produto         | Codigo=P001 | Teclado Mecanico
+[17/06/2026 09:46:55] INCLUSAO   | PedidoVenda     | Numero=1 | Cliente=C001 | Itens=1 | Total=R$399,80
+[17/06/2026 17:02:06] INCLUSAO   | Pessoa          | Codigo=C002 | Nome=Ot�vio gasque | Tipo=AMBOS
+[17/06/2026 17:02:50] ALTERACAO  | Pessoa          | Codigo=C002 | Nome=Otavio Gasque | Tipo=FORNECEDOR
+[17/06/2026 17:03:56] INCLUSAO   | Endereco        | ID=2 | Pessoa=C002 | Rua Jos� Felipe 650, 650
+[17/06/2026 17:04:03] EXCLUSAO   | Endereco        | ID=2 | Pessoa=C002
+[17/06/2026 17:04:55] INCLUSAO   | Endereco        | ID=2 | Pessoa=C001 | Rua SixSeven, 67
+[17/06/2026 17:06:49] INCLUSAO   | PedidoVenda     | Numero=2 | Cliente=C001 | Itens=1 | Total=R$1599,20

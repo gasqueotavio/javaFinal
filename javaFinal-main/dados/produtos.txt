@@ -1,0 +1,3 @@
+P001|Money Now|0.00|29.90|F001
+P002|Primeiro Dolar na Pratica|0.00|49.90|F002
+P003|Dollar on Demand|0.00|30.00|F003

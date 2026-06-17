@@ -1,0 +1,10 @@
+============================================
+         CADASTRO DE PRODUTOS
+============================================
+1. Incluir Produto
+2. Consultar Produtos
+3. Alterar Produto
+4. Excluir Produto
+--------------------------------------------
+0. Voltar ao Menu Principal
+============================================
